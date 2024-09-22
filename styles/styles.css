@@ -1016,7 +1016,9 @@ footer {
   .footer-content {
     flex-direction: column;
     text-align: center;
+    padding-left: 40px;
   }
+
 
   .footer-section {
     margin-bottom: 20px;
@@ -1140,7 +1142,6 @@ form .send-btn:hover{
 .contact-container{
   display: block;
   margin-top: 120px;
-  width: 60%;
   margin: auto;
 }
 
